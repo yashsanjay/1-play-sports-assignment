@@ -18,8 +18,8 @@ npm install
 
 Create `.env`:
 PORT=5000
-<!-- DATABASE URL is not kept secret because you want to setup it locally -->
-DATABASE_URL="postgresql://neondb_owner:npg_eNxpy0hb3FIR@ep-cool-hill-amnv0zsu-pooler.c-5.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+
+DATABASE_URL= shared with the mail
 
 Command to run backend - npm run dev
 
